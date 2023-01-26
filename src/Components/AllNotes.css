@@ -1,0 +1,16 @@
+ *{
+    padding: 0;
+    margin: 0;
+ }
+
+ .all-notes-container{
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding: 10px;
+    width: 30%;
+    background-color: rgb(235, 231, 239);
+ }
+
+ .all-notes-container h1, h5, p{
+    color: rgb(51, 51, 77);
+ }

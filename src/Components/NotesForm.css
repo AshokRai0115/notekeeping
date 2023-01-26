@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.form-container{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.form-container input, textarea, button{
+    margin-bottom: 10px;
+}
+
+.title{
+    width: 100%;
+    height: 30px;
+}
+.note{
+    width: 100%;
+    height: 100px;
+    line-break: normal;
+    overflow:scroll;
+}
+.date{
+    width: 50%;
+    height: 30px;
+    
+}
+.create{
+    width: 30%;
+    height: 50px;
+}
+

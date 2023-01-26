@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.new-notes-container{
+    margin-top: 10px;
+    width: 30%;
+    /* height: 100px;/ */
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
